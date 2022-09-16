@@ -1,0 +1,36 @@
+
+---Downloaded files---
+The import files for: Efrekia Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/themes/efrekia//demo-data/efrekia-content.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/themes/efrekia//demo-data/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
